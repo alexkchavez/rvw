@@ -1,0 +1,13 @@
+Package: rvw
+Title: Conversions between R and Vowpal Wabbit
+Description: Converts data sets in Vowpal Wabbit's sparse format to data frames
+    and lists in R.
+Version: 0.0
+Date: 2014-08-23
+Author: Alex Chavez <alexkchavez@gmail.com>
+Maintainer: Alex Chavez <alexkchavez@gmail.com>
+Imports:
+    futile.logger,
+    data.table (>= 1.9.3)
+License: MIT
+Roxygen: list(wrap = FALSE)
