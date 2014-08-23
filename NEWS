@@ -1,0 +1,8 @@
+rvw 0.1
+=======
+  
+* Initial release. `fromVw` functions converts a vector of Vowpal Wabbit strings to a list of sparse R data frames or to a dense data frame.
+
+* Added tests for most functions.
+
+* A TODO is to add conversion from R data frames to Vowpal Wabbit.
