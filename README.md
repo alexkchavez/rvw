@@ -1,7 +1,7 @@
 rvw
 ===
 
-Converts data sets in Vowpal Wabbit's sparse format to sparse lists and dense data frames in R.
+Converts data sets in Vowpal Wabbit's sparse format to sparse lists and dense data frames in R. Useful in conjunction with downsampling big data in Vowpal Wabbit format for prototyping models in R and conducting exploratory data anlaysis.
 
 ### Demo
 [http://alexkchavez.shinyapps.io/rvw-demo/](http://alexkchavez.shinyapps.io/rvw-demo/)
