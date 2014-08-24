@@ -3,6 +3,9 @@ rvw
 
 Converts data sets in Vowpal Wabbit's sparse format to sparse lists and dense data frames in R.
 
+### Demo
+[http://alexkchavez.shinyapps.io/rvw-demo/](http://alexkchavez.shinyapps.io/rvw-demo/)
+
 ### Getting Started
 From R, `install.packages("devtools")` and then install the version `>= 1.9.3` of `data.table` using the instructions below (copied from [https://github.com/Rdatatable/data.table](https://github.com/Rdatatable/data.table)):
 
